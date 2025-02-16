@@ -30,6 +30,5 @@ Using **data analysis and visualization techniques**, this project provides **va
 4️⃣ **Dashboard Development** – Built an interactive **Streamlit app** to display findings  
 
 ## 🚀 Explore the Project  
-🔗 **Live Streamlit Dashboard:** [Jadara Job Market Dashboard](#) *([Add your app link here!](https://usecae-5-5ojezzeqdhzyejlsv6az4u.streamlit.app/))*  
+🔗 **Live Streamlit Dashboard:** *([Jadara Job Market!](https://usecae-5-5ojezzeqdhzyejlsv6az4u.streamlit.app/))*  
 
-https://usecae-5-5ojezzeqdhzyejlsv6az4u.streamlit.app/
